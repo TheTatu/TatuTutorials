@@ -42,6 +42,7 @@ public class Parent {
 	}
 
 	public void print() {
+		System.out.println("I am parent");
 		System.out.println(name + ":" + age);
 	}
 	
