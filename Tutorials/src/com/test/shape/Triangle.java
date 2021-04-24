@@ -26,3 +26,4 @@ public class Triangle {
 		this.height = height;
 	}
 }
+
